@@ -2,6 +2,8 @@
 
 A comprehensive full-stack application for visualizing various data structures and algorithms. This project was built to provide an interactive and educational tool for understanding core computer science concepts.
 
+## Live Demo 
+  link - https://algorithm-visualizer-lime-seven.vercel.app/
 ## ✨ Features
 
 - **Sorting Algorithms:** Visualize the step-by-step process of Bubble, Selection, Insertion, Quick, Merge, and Heap sort.
